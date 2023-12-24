@@ -5,12 +5,12 @@
 3. Movements are allowed in four directions, with costs associated:
 ```
     2 for right or left,
-    1 for up or down.
+    1 for up or down
 ```
 5. Users choose between two search strategies:
 ```
      Uniform Cost Search
-     A* Search, using Manhattan distance as heuristics.
+     A* Search (using Manhattan distance as heuristics)
 ```
 7. The search process continues until the 10th expanded node, and the program prints each state during expansion, comparing them with the goal state.
 8. The game provides a dynamic environment for users to experiment with different scenarios, observing how the robot navigates through the grid based on their inputs and chosen search algorithm.

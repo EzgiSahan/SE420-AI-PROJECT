@@ -1,4 +1,4 @@
-## İzmir University of Economics SE420 AI Project 2023-2024
+# İzmir University of Economics SE420 AI Project 2023-2024
 
 1. The game is set in a 3x3 grid with nine rooms, each represented by a letter (A-I).
 2. Players input the initial room (source) and the destination room (goal), along with specifying walls between certain rooms.
